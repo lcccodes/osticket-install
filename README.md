@@ -8,7 +8,7 @@ Solution: create more than one resource group so this is available already as an
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project covers the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -26,11 +26,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- IIS
+- PHP Manager
+- "rewrite module"
+- "redistributable"
+- MySQL
+- HeidiSQL (DB client)
+
 
 <h2>Installation Steps</h2>
 
