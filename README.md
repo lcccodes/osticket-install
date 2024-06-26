@@ -44,6 +44,7 @@ Installing and configuring IIS (Internet Information Services) which will act as
 <br />
 
 <p>
+Text.
 
   ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
 
