@@ -46,7 +46,7 @@ Installing and configuring IIS (Internet Information Services) which will act as
 <br />
 
 <p>
-You'll need PHP manager.
+Next, you'll need PHP manager.
 
 ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ca3981b7-66c0-4830-a2b9-89c3ecb02d9d)
 
@@ -58,13 +58,14 @@ You'll need PHP manager.
 <br />
 
 <p>
-Text.
+Then install the "rewrite module" (does something behind the scenes in osTicket).
 
-  ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
+![image](https://github.com/lcccodes/osticket-install/assets/171904823/2cc07698-d5c7-4f34-ab8b-42557e31875b)
+
 
 </p>
 <p>
-Choose "standard configuration" when installing MySQL server.
+....
 </p>
 <br />
 
