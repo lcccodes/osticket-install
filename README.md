@@ -94,13 +94,14 @@ Once osTicket is installed, you need to reload IIS and then enable extensions fo
 <br />
 
 <p>
-Text.
+In IIS, find PHP Manager. Right click on the extension needed or find "enable" on the right hand menu.
 
-  ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
+![image](https://github.com/lcccodes/osticket-install/assets/171904823/d7f82afc-a664-4112-9682-51ddeb65662d)
+
 
 </p>
 <p>
-Choose "standard configuration" when installing MySQL server.
+  ...
 </p>
 <br />
 
