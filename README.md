@@ -35,8 +35,10 @@ This project covers the prerequisites and installation of the open-source help d
 
 
 <h2>Installation Steps</h2>
+<p>test</p>
 
 ![image](https://github.com/lcccodes/osticket-install/assets/171904823/a18f124b-b556-48cc-b05f-a47f8918f77b)
+
 
 <p>
 Installing and configuring IIS (Internet Information Services) which will act as the webserver on which osTicket will run.
