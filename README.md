@@ -46,13 +46,14 @@ Installing and configuring IIS (Internet Information Services) which will act as
 <br />
 
 <p>
-Text.
+You'll need PHP manager.
 
-  ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
+![image](https://github.com/lcccodes/osticket-install/assets/171904823/ca3981b7-66c0-4830-a2b9-89c3ecb02d9d)
+
 
 </p>
 <p>
-Choose "standard configuration" when installing MySQL server.
+...
 </p>
 <br />
 
