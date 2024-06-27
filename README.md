@@ -89,7 +89,7 @@ osTicket is the last to install.
 
 </p>
 <p>
-Choose "standard configuration" when installing MySQL server.
+Once osTicket is installed, you need to reload IIS and then enable extensions for osTicket.
 </p>
 <br />
 
