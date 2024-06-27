@@ -115,3 +115,5 @@ Install and set up HeidiSQL DB client.
 <p>
 You'll need to create a new database for osTicket (call it "osTicket"), and enter the information from the MySQL database.</p>
 <br />
+
+Make sure to read on to Part 2 for the post-installation configuration.
