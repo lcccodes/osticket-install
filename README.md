@@ -29,7 +29,7 @@ This project covers the prerequisites and installation of the open-source help d
 - IIS
 - PHP Manager
 - "rewrite module"
-- "redistributable"
+- "C++ Redistributable"
 - MySQL
 - HeidiSQL (DB client)
 
@@ -46,14 +46,14 @@ Installing and configuring IIS (Internet Information Services) which will act as
 <br />
 
 <p>
-Next, you'll need PHP manager.
+Next, you'll need PHP manager. 
 
 ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ca3981b7-66c0-4830-a2b9-89c3ecb02d9d)
 
 
 </p>
 <p>
-...
+PHP manager needs to be installed before you try to install php_7.3.8 (or latest).
 </p>
 <br />
 
@@ -65,12 +65,12 @@ Then install the "rewrite module" (does something behind the scenes in osTicket)
 
 </p>
 <p>
-....
+This one is really quick. After this, you install the C++ Redistributable, then MySQL Server.
 </p>
 <br />
 
 <p>
-Text.
+You can use HeidiSQL as the DB client with MySQL server (install HeidiSQL once osTicket is ready).
 
   ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
 
@@ -81,7 +81,7 @@ Choose "standard configuration" when installing MySQL server.
 <br />
 
 <p>
-Text.
+osTicket is the last to install.
 
   ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
 
