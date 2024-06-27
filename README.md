@@ -17,7 +17,9 @@ This project covers the prerequisites and installation of the open-source help d
 - Remote Desktop
 - Internet Information Services (IIS)
 - PHP Manager
+- C++ Redistributable
 - MySQL
+- osTicket
 - HeidiSQL
 
 <h2>Operating Systems Used </h2>
