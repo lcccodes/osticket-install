@@ -35,7 +35,7 @@ This project covers the prerequisites and installation of the open-source help d
 
 
 <h2>Installation Steps</h2>
-<p>test</p>
+<p>There are actually quite a few prerequisites to install, but the steps are easy.</p>
 
 ![image](https://github.com/lcccodes/osticket-install/assets/171904823/a18f124b-b556-48cc-b05f-a47f8918f77b)
 
