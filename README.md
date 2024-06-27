@@ -8,7 +8,7 @@ Solution: create more than one resource group so this is available already as an
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This project covers the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This project covers the prerequisites and installation of the open-source help desk ticketing system osTicket. It's a bit complex and each time I go through it, I'll try to add more details here for others.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -106,12 +106,12 @@ In IIS, find PHP Manager. Right click on the extension needed or find "enable" o
 <br />
 
 <p>
-Text.
+Install and set up HeidiSQL DB client.
 
-  ![image](https://github.com/lcccodes/osticket-install/assets/171904823/ceeba0a8-a85a-4d69-b1ec-c4724ed48dff)
+ ![image](https://github.com/lcccodes/osticket-install/assets/171904823/a6944c9c-3919-4ee3-9957-51a496e4bebd)
+
 
 </p>
 <p>
-Choose "standard configuration" when installing MySQL server.
-</p>
+You'll need to create a new database, and enter the information from the MySQL database.</p>
 <br />
